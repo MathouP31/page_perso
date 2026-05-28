@@ -72,7 +72,7 @@
             <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ entry.area }}</h6>
           {% endif %}
 
-          {% if entry.courses or entry.highlights %}
+          {% if entry.courses or entry.highlights or entry.activities %}
             <ul class="items">
               {% for item in entry.courses %}
                 <li>
@@ -82,6 +82,11 @@
               {% for item in entry.highlights %}
                 <li>
                   <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                </li>
+              {% endfor %}
+              {% for item in entry.activities %}
+                <li>
+                  <span class="item" style="color: var(--global-theme-color)">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                 </li>
               {% endfor %}
             </ul>
