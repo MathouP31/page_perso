@@ -28,8 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 3rd year PhD student at [Télécom Paris](https://www.telecom-paris.fr), where I work at the intersection of **graph learning** and **fairness in AI**. My research explores the short and long-term implications of fairness constraints on evolutionary graph learning models, and aims to design an evaluation framework to compare graph structures resulting from biased and unbiased generative processes.
+I am a 3rd year PhD student at [Télécom Paris](https://www.telecom-paris.fr), member of the [S²A team](https://s2a.telecom-paris.fr/) (Signal, Statistics and Machine Learning), where I work at the intersection of **graph learning** and **fairness in AI**. My research explores the short and long-term implications of fairness constraints on evolutionary graph learning models, and aims to design an evaluation framework to compare graph structures resulting from biased and unbiased link prediction models.
 
-Before my PhD, I worked as a Research Engineer at Télécom Paris on temporal graph simulation with Hawkes processes. I also completed internships at [ISIR (Sorbonne/CNRS)](https://www.isir.upmc.fr/) on social attention modeling in conversational agents, and at [CerCo (CNRS)](https://cerco.cnrs.fr/) on the similarities between CLIP and the human brain using RSA and brain decoding methods.
+Before my PhD, I worked as a Research Engineer at Télécom Paris on temporal graph simulation with Hawkes processes. I also completed internships at [ISIR (Sorbonne/CNRS)](https://www.isir.upmc.fr/) on social attention modeling in conversational agents, and at [CerCo (CNRS)](https://cerco.cnrs.fr/) on the similarities between CLIP and the human brain.
 
 I hold a Master's degree in Applied Mathematics (MApi3) from Université Paul Sabatier, Toulouse.

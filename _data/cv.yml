@@ -85,7 +85,7 @@ cv:
       - name: Machine Learning & AI
         level: Expert
         icon: fa-solid fa-brain
-        keywords: "Graph Learning, Deep Learning, NLP, Computer Vision, Fairness in AI, Temporal Graphs"
+        keywords: "Graph Learning, Deep Learning, Fairness in AI, Temporal Graphs, Hawkes processes "
 
     Languages:
       - name: French
@@ -94,14 +94,3 @@ cv:
       - name: English
         summary: Intermediate
 
-
-    Projects:
-      - name: Défi-IA 2022
-        summary: Kaggle machine learning challenge to predict daily precipitation (Météo France)
-        start_date: 2022-01-01
-        end_date: 2022-12-31
-
-      - name: ECG Anomaly Detection
-        summary: Machine learning project for anomaly detection on electrocardiographic signals
-        start_date: 2021-01-01
-        end_date: 2022-12-31
