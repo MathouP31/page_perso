@@ -85,7 +85,7 @@
                 </li>
               {% endfor %}
               {% if entry.web_activities %}
-                {% assign activity_items = entry.web_activities | split: "|" %}
+                {% assign activity_items = entry.web_activities | split: '|' %}
                 {% for item in activity_items %}
                   <li>
                     <span class="item" style="color: var(--global-theme-color)">{{ item }}</span>
