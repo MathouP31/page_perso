@@ -2,11 +2,7 @@ cv:
   name: Mathilde Perez
   label: 3rd year PhD student — Télécom Paris
   email: mathilde.perez@telecom-paris.fr
-  location: Paris, France
-  summary: >
-    3rd year PhD student at Télécom Paris, working on the implications of fairness constraints
-    on evolutionary graph learning models. My research aims to design an evaluation framework
-    to compare graph structures resulting from biased and unbiased generative processes.
+  location: Palaiseau, France
 
   sections:
     Education:
@@ -18,11 +14,7 @@ cv:
         end_date: present
         highlights:
           - Fairness constraints on evolutionary graph learning models
-          - Evaluation framework for biased vs. unbiased generative graph structures
-          - Organization committee, Ellis PhD Symposium 2024
-          - Teaching
-          - Conference Cap 2024
-          - Conference ECML-PKDD 2025
+          - Evaluation framework for biased vs. unbiased link prediction models
 
       - institution: Université Paul Sabatier
         location: Toulouse, France
@@ -65,7 +57,6 @@ cv:
         end_date: 2022-10-01
         highlights:
           - Modeling social attention through gaze in a conversational agent (Greta platform)
-          - Designed and conducted an experiment using a virtual agent, Unity, and Eye Tracker
 
       - company: CerCo — CNRS
         position: NLP Intern
@@ -73,8 +64,16 @@ cv:
         start_date: 2021-05-01
         end_date: 2021-07-01
         highlights:
-          - Similarities between CLIP (neural network for image classification) and the brain
-          - Brain regions involved in concept recognition using RSA and Brain Decoding methods
+          - Similarities between CLIP and the brain
+
+    Oral Presentations:
+      - bullet: "**SimHawNet: a modified Hawkes process for temporal network simulation** — ECML-PKDD 2025, Porto, Portugal · [Slides](/page_perso/assets/pdf/ECML_slides_2025.pdf)"
+      - bullet: "**SimHawNet: a modified Hawkes process for temporal network simulation** — CAp 2024, Paris, France"
+
+    Activities:
+      - bullet: "Organization committee — Ellis PhD Symposium 2024"
+      - bullet: "Teaching assistant — Télécom Paris"
+      - bullet: "Lab visit — IDLab, Ghent University (team of J. Lijffijt)"
 
     Skills:
       - name: Programming
