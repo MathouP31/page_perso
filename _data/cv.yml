@@ -14,10 +14,7 @@ cv:
         highlights:
           - Fairness constraints on evolutionary graph learning models
           - Evaluation framework for biased vs. unbiased link prediction models
-        activities:
-          - Organization committee — Ellis PhD Symposium 2024
-          - Teaching assistant — Télécom Paris
-          - Lab visit — IDLab, Ghent University
+        web_activities: "Organization committee — Ellis PhD Symposium 2024|Teaching assistant — Télécom Paris|Lab visit — IDLab, Ghent University"
 
       - institution: Université Paul Sabatier
         location: Toulouse, France
