@@ -38,6 +38,7 @@ cv:
 
       - institution: Lycée des Arènes
         location: Toulouse, France
+        area: Sciences
         studyType: Baccalauréat Scientifique
         start_date: 2016
         end_date: 2016
