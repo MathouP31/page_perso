@@ -15,6 +15,9 @@ cv:
         highlights:
           - Fairness constraints on evolutionary graph learning models
           - Evaluation framework for biased vs. unbiased link prediction models
+          - "<span style='color: var(--global-theme-color)'>Organization committee — Ellis PhD Symposium 2024</span>"
+          - "<span style='color: var(--global-theme-color)'>Teaching assistant — Télécom Paris</span>"
+          - "<span style='color: var(--global-theme-color)'>Lab visit — IDLab, Ghent University </span>"
 
       - institution: Université Paul Sabatier
         location: Toulouse, France
@@ -69,11 +72,6 @@ cv:
     Oral Presentations:
       - bullet: "**SimHawNet: a modified Hawkes process for temporal network simulation** — ECML-PKDD 2025, Porto, Portugal · [Slides](/page_perso/assets/pdf/ECML_slides_2025.pdf)"
       - bullet: "**SimHawNet: a modified Hawkes process for temporal network simulation** — CAp 2024, Paris, France"
-
-    Activities:
-      - bullet: "Organization committee — Ellis PhD Symposium 2024"
-      - bullet: "Teaching assistant — Télécom Paris"
-      - bullet: "Lab visit — IDLab, Ghent University (team of J. Lijffijt)"
 
     Skills:
       - name: Programming
