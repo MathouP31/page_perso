@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/page_perso/cv/";
@@ -398,16 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/page_perso/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-will-be-speaking-at-the-eunic-science-day-in-madrid-on-how-social-media-algorithms-reinforce-inequality",
+          title: '🎤 I will be speaking at the EUNIC Science Day in Madrid on...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/page_perso/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-have-a-paper-accepted-at-cap-2026-at-université-de-montpellier-france",
+          title: '📢 I have a paper accepted at CAp 2026 at Université de Montpellier,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
