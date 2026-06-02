@@ -13,3 +13,4 @@ _scripts/*
 _data/citations.yml
 # Upstream template file
 CUSTOMIZE.md
+_includes/head.liquid
