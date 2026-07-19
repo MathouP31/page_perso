@@ -52,11 +52,17 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-i-will-be-speaking-at-the-eunic-science-day-in-madrid-on-how-social-media-algorithms-reinforce-inequality",
+      },{id: "news-my-paper-how-predicted-links-influence-network-evolution-disentangling-choice-and-algorithmic-feedback-in-dynamic-graphs-has-been-accepted-at-uai-2026",
+          title: '🎉 My paper How Predicted Links Influence Network Evolution: Disentangling Choice and Algorithmic...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-speaking-at-the-eunic-science-day-in-madrid-on-how-social-media-algorithms-reinforce-inequality",
           title: '🎤 I will be speaking at the EUNIC Science Day in Madrid on...',
           description: "",
           section: "News",},{id: "news-i-have-a-paper-accepted-at-cap-2026-at-université-de-montpellier-france",
           title: '📢 I have a paper accepted at CAp 2026 at Université de Montpellier,...',
+          description: "",
+          section: "News",},{id: "news-the-same-paper-how-predicted-links-influence-network-evolution-disentangling-choice-and-algorithmic-feedback-in-dynamic-graphs-has-also-been-selected-for-a-spotlight-presentation-at-ecaf-2026",
+          title: '🌟 The same paper, How Predicted Links Influence Network Evolution: Disentangling Choice and...',
           description: "",
           section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
