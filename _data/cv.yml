@@ -42,6 +42,43 @@ cv:
         highlights:
           - Honors (Mention Bien), European English section
 
+    Publications:
+      - title: "How Predicted Links Influence Network Evolution: Disentangling Choice and Algorithmic Feedback in Dynamic Graphs"
+        authors:
+          - "Mathilde Perez"
+          - "Raphaël Romero"
+          - "Jefrey Lijffijt"
+          - "Charlotte Laclau"
+        journal: "UAI 2026 · Spotlight presentation, ECAF 2026"
+        date: 2026
+        url: "https://arxiv.org/abs/2603.03945"
+        publisher: "UAI 2026 · Spotlight presentation, ECAF 2026"
+
+      - title: "TopoFair: Linking Topological Bias to Fairness in Link Prediction Benchmarks"
+        authors:
+          - "Lilian Marey"
+          - "Mathilde Perez"
+          - "Tiphaine Viard"
+          - "Charlotte Laclau"
+        journal: "Preprint"
+        date: 2026
+        url: "https://arxiv.org/abs/2602.11802"
+        publisher: "Preprint"
+
+      - title: "SimHawNet: a modified Hawkes process for temporal network simulation"
+        authors:
+          - "Mathilde Perez"
+          - "Raphaël Romero"
+          - "Bo Kang"
+          - "Tijl De Bie"
+          - "Jefrey Lijffijt"
+          - "Charlotte Laclau"
+        journal: "Data Mining and Knowledge Discovery"
+        date: 2025
+        doi: "10.1007/s10618-025-01119-1"
+        url: "https://doi.org/10.1007/s10618-025-01119-1"
+        publisher: "Data Mining and Knowledge Discovery"
+
     Experience:
       - company: Télécom Paris
         position: Research Engineer
@@ -70,17 +107,26 @@ cv:
     Oral Presentations:
       - bullet: "**SimHawNet: a modified Hawkes process for temporal network simulation** — ECML-PKDD 2025, Porto, Portugal · [Slides](/page_perso/assets/pdf/ECML_slides_2025.pdf)"
       - bullet: "**SimHawNet: a modified Hawkes process for temporal network simulation** — CAp 2024, Paris, France"
+      - bullet: "**How social media algorithms reinforce inequality** — [EUNIC Science Day](https://www.institutfrancais.es/madrid/evento/eunic-science-day-encuentro-europeo-sobre-los-retos-y-avances-de-la-ia/), Madrid, Spain · [Slides](/page_perso/assets/pdf/EUNIC_Science_Day_slides.pdf)"
 
     Skills:
       - name: Programming
         level: Expert
         icon: fa-solid fa-code
-        keywords: "Python, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, C/C++/C#, R, LaTeX"
+        keywords: "Python, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, C/C++/C#, R, LaTeX, Unity, Java"
+        summary: "Python, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, C/C++/C#, R, LaTeX, Unity, Java"
 
       - name: Machine Learning & AI
         level: Expert
         icon: fa-solid fa-brain
         keywords: "Graph Learning, Deep Learning, Fairness in AI, Temporal Graphs, Hawkes processes "
+        summary: "Graph Learning, Deep Learning, Fairness in AI, Temporal Graphs, Hawkes processes"
+
+      - name: Soft Skills
+        level: Expert
+        icon: fa-solid fa-people-group
+        keywords: "Teamwork, Public speaking, Autonomy"
+        summary: "Teamwork, Public speaking, Autonomy"
 
     Languages:
       - name: French
