@@ -53,10 +53,10 @@ cv:
           - "Raphaël Romero"
           - "Jefrey Lijffijt"
           - "Charlotte Laclau"
-        journal: "UAI 2026 · Spotlight presentation, ECAF 2026"
+        journal: "UAI 2026"
         date: 2026
         url: "https://arxiv.org/abs/2603.03945"
-        publisher: "UAI 2026 · Spotlight presentation, ECAF 2026"
+        publisher: "UAI 2026"
 
       - title: "TopoFair: Linking Topological Bias to Fairness in Link Prediction Benchmarks"
         authors:
