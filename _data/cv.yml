@@ -9,6 +9,7 @@ cv:
         location: Palaiseau, France
         area: Graph Learning, Fairness in AI
         studyType: PhD
+        degree: PhD
         start_date: 2023-09-01
         end_date: present
         highlights:
@@ -20,6 +21,7 @@ cv:
         location: Toulouse, France
         area: Applied Mathematics for Engineering, Industry and Innovation
         studyType: Master MApi3
+        degree: Master
         start_date: 2020
         end_date: 2022
         highlights:
@@ -30,6 +32,7 @@ cv:
         location: Toulouse, France
         area: Applied Mathematics
         studyType: Bachelor MApi3
+        degree: Bachelor
         start_date: 2017
         end_date: 2020
 
@@ -37,6 +40,7 @@ cv:
         location: Toulouse, France
         area: Sciences
         studyType: Baccalauréat Scientifique
+        degree: Baccalauréat
         start_date: 2016
         end_date: 2016
         highlights:
@@ -105,8 +109,7 @@ cv:
           - Similarities between CLIP and the brain
 
     Oral Presentations:
-      - bullet: "**SimHawNet: a modified Hawkes process for temporal network simulation** — ECML-PKDD 2025, Porto, Portugal · [Slides](/page_perso/assets/pdf/ECML_slides_2025.pdf)"
-      - bullet: "**SimHawNet: a modified Hawkes process for temporal network simulation** — CAp 2024, Paris, France"
+      - bullet: "**SimHawNet: a modified Hawkes process for temporal network simulation** — ECML-PKDD 2025, Porto, Portugal · [Slides](/page_perso/assets/pdf/ECML_slides_2025.pdf) & CAp 2024, Paris, France"
       - bullet: "**How social media algorithms reinforce inequality** — [EUNIC Science Day](https://www.institutfrancais.es/madrid/evento/eunic-science-day-encuentro-europeo-sobre-los-retos-y-avances-de-la-ia/), Madrid, Spain · [Slides](/page_perso/assets/pdf/EUNIC_Science_Day_slides.pdf)"
 
     Skills:
@@ -133,4 +136,4 @@ cv:
         summary: Native
 
       - name: English
-        summary: Intermediate
+        summary: Advanced
